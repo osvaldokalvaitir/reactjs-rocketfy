@@ -36,7 +36,7 @@ Aplicação Rocketfy usando Create React App, React Icons, styled-components, Re
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Nesta única tela estão todos os cards com dados vindos de uma lista, sendo possível movê-los de lugar, arrastando e soltando.
 
 ## Desenvolvimento
