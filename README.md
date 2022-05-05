@@ -50,6 +50,8 @@ npm install | yarn
 npm start | yarn start
 ```
 
+Click to learn more about the tools used: [Adorable Avatars](https://github.com/osvaldokalvaitir/awesome/blob/main/src/avatars/adorable-avatars.md).
+
 ## :memo: License
 
 This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
